@@ -20,7 +20,7 @@ BaselineOfFamixAngular >> defineDependencies: spec [
 	spec
 		baseline: 'SmaCC'
 		with: [ spec
-				loads: #('JavaScript' 'withSource');
+				loads: #('Javascript' 'withSource');
 				repository: 'github://j-brant/SmaCC:master/src' ].
 ]
 
